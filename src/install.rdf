@@ -8,16 +8,17 @@
     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>darkmoon@lootyhoof-pm</em:id>
+    <em:id>darkmoon-chameleon@japanoise-pm</em:id>
     <em:version>1.2.0</em:version>
-    <em:name>Dark Moon</em:name>
-    <em:description>The ultimate dark experience.</em:description>
+    <em:name>Dark Moon (chameleon)</em:name>
+    <em:description>The ultimate .Xresources experience.</em:description>
     <em:creator>Lootyhoof</em:creator>
     <em:type>4</em:type>
-    <em:internalName>darkmoon</em:internalName>
+    <em:internalName>darkmoon-chameleon</em:internalName>
 
     <em:contributor>Louis Chan</em:contributor>
 	<em:contributor>Graciliano</em:contributor>
+	<em:contributor>japanoise</em:contributor>
 
     <em:targetApplication>
       <Description>

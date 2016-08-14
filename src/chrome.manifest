@@ -1,5 +1,5 @@
-skin browser darkmoon chrome/browser/
-skin mozapps darkmoon chrome/mozapps/
-skin global darkmoon chrome/global/
-skin ostarget darkmoon chrome/ostarget/general/
-skin ostarget darkmoon chrome/ostarget/aero/ os=WINNT osversion>=6
+skin browser darkmoon-chameleon chrome/browser/
+skin mozapps darkmoon-chameleon chrome/mozapps/
+skin global darkmoon-chameleon chrome/global/
+skin ostarget darkmoon-chameleon chrome/ostarget/general/
+skin ostarget darkmoon-chameleon chrome/ostarget/aero/ os=WINNT osversion>=6
